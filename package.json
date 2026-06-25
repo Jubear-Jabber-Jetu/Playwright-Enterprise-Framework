@@ -1,0 +1,14 @@
+{
+  "name": "playwright-enterprise-framework",
+  "version": "1.0.0",
+  "description": "Enterprise Playwright test automation framework",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "report": "playwright show-report reports"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0"
+  }
+}
