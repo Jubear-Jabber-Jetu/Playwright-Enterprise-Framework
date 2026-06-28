@@ -1,0 +1,10 @@
+node_modules/
+dist/
+reports/html/
+reports/json/
+reports/test-results/
+.env
+*.log
+test-results/
+playwright-report/
+blob-report/
